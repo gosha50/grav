@@ -1,0 +1,106 @@
+1455337667
+s:2188:"<hr />
+<p>title: Gosha Akinian</p>
+<p>intro: Building Apps For Fun &amp; Profit</p>
+<p>text: New face in Portland, handcrafting websites to your taste</p>
+<p>subtext: Turning users into raving fanatics and generating consistent leads for your business.</p>
+<p>upsite: Powerful tech, at your fingertips.</p>
+<p>address: 9120 NE Vancouver Mall Loop</p>
+<p>city: Vancouver</p>
+<p>state: WA</p>
+<p>zip: 98662</p>
+<p>country: US</p>
+<p>phone: (360) 609-9987</p>
+<p>email: hello@akinian.com</p>
+<p>website-request-image: bg_suburb1.jpg</p>
+<p>hero-image: bg.jpg</p>
+<p>our-work-images: </p>
+<ul>
+<li>
+<p>image: bioflourish.jpg
+image_name: Bioflourish
+url: http://bioflourish.com/</p>
+</li>
+<li>
+<p>image: screen-shot-2015-10-08-at-6.40.42-pm.png
+image_name: Intel Public Website
+url: &gt;
+http://www.intel.com/content/www/us/en/internet-of-things/solutions-directory.html</p>
+</li>
+<li>
+<p>image: rogue-beer-finder.png
+image_name: Rogue Beer Finder
+url: http://www.rogue.com/finder</p>
+</li>
+<li>
+<p>image: portfolio-3.jpg
+image_name: &gt;
+Custom Performance Monitoring
+Application
+url:</p>
+</li>
+<li>
+<p>image: rogue_braggots.png
+image_name: Rogue Planning Kit
+url: http://www.rogue.com/planning-kit/login</p>
+</li>
+<li>
+<p>image: rogue_public_site.png
+image_name: Rogue Public Site
+url: http://www.rogue.com/</p>
+</li>
+<li>
+<p>image: nikedigital-merchshow.png
+image_name: Nike Digital Merch Show
+url: 'http://dev.preview.tngdev.com/Nike/digimerch/#/sample/en-US/'</p>
+</li>
+<li>
+<p>image: esteelauder.jpg
+image_name: Estée Lauder Public Website
+url:</p>
+</li>
+<li>
+<p>image: lawrenceerickson.png
+image_name: Lawrenceerickson
+url: http://lawrenceerickson.com/</p>
+</li>
+</ul>
+<p>accounts: </p>
+<ul>
+<li>
+<p>social: github
+url: https://github.com/gosha50</p>
+</li>
+<li>
+<p>social: twitter
+url: https://twitter.com/georgeakinian</p>
+</li>
+<li>
+<p>social: linkedin
+url: https://www.linkedin.com/nhome/</p>
+</li>
+</ul>
+<p>menu-items: </p>
+<ul>
+<li>
+<p>label: Home
+url: '#top'</p>
+</li>
+<li>
+<p>label: About
+url: '#about'</p>
+</li>
+<li>
+<p>label: Services
+url: '#services'</p>
+</li>
+<li>
+<p>label: Portfolio
+url: '#portfolio'</p>
+</li>
+<li>
+<p>label: Contact
+url: '#contact'</p>
+<hr />
+</li>
+</ul>";

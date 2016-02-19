@@ -1,0 +1,11 @@
+email: akinian@me.com
+fullname: 'George Akinian'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$fNHWLj69xyxoXyGc.RXcS.ISLVWRCuJ9Q7ml0oHZLDfVt1lNl1eY2

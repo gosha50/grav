@@ -1,0 +1,48 @@
+
+    <!-- Navigation -->
+
+    <!-- Portfolio -->
+    <section id="portfolio" class="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h2>Our Work</h2>
+                    <hr class="small">
+                    <div class="row">
+                        {% for item in page.header.our_work_images %}
+
+                        <div class="col-md-6">
+                            <div class="portfolio-item">
+                                <a href="{{ item.url }}">
+
+                                      <img class="img-portfolio img-responsive" src="user/pages/images/{{ item.image }}">   
+                                </a>
+                                <h5> {{ item.image_name}} </h5>
+                            </div>
+                        </div>
+                           {% endfor %}
+                    </div>
+                    <!-- /.row (nested) -->
+                   <!--  <a href="#" class="btn btn-dark">View More Items</a> -->
+                </div>
+                <!-- /.col-lg-10 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+
+    <!-- Call to Action -->
+    <aside class="call-to-action bg-primary">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3> {{ page.header.upsite }} </h3>
+                    <!-- <a href="#top" class="btn btn-lg btn-light">Top Page!</a> or
+                    <a href="#contact_2" class="btn btn-lg btn-dark">Contact!</a> -->
+                </div>
+            </div>
+        </div>
+    </aside>
+
+   
